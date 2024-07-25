@@ -3,7 +3,7 @@
 ## This week we are setting up git, creating branches and solving a merge conflict
 
 ### Ensure you have [Node.js](https://nodejs.org/) installed one your machine. You can verify the installation by running:
-```bash
+
 node -v
 npm -v
 
